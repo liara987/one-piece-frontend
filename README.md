@@ -4,10 +4,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## Large
-![large](screenshots/large.png)
-
-## Medium
-![web](screenshots/medium.png)
+![large](screenshots/web.gif)
 
 ## Small
-![smal](screenshots/small.png)
+![smal](screenshots/mobile.gif)
